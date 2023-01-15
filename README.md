@@ -6,8 +6,7 @@ I'm Dustin, and I'm from the United States. I am currently self learning Javascr
 ## Learning and Growing
 
 ### Main Focus
-* 💻 HTML, CSS, JavaScript
+* 💻 HTML, CSS, JavaScript, React
 
 ### Secondary Learning
-* 🐍 Python
-
+* 🐍 Python, Vue, Mongo
