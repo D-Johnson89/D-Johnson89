@@ -51,4 +51,4 @@ A vocabulary and journaling application built during a collaborative hackathon
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dustin-johnson89)
 - 📧 [Email](d.l.johnson3009@gmail.com)
-- 🌐 [Portfolio](coming-soon)
+- 🌐 [Portfolio](https://d-johnson89.github.io/portfolio/)
